@@ -9,13 +9,12 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : UCF Software Engineering
-tagline: We run this
+tagline: Making it happen
 author :
-  name : James Choi
+  name : James Choi, Zackary Kirby
   email : jchoi2012@knights.ucf.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  github : kizzlebot
+  twitter : kizzlebot 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
