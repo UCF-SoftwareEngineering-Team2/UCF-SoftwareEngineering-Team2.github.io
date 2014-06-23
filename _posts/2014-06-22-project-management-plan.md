@@ -39,21 +39,21 @@ Webcourses Discussions will be used for communication of complex topics, ideas a
 
 ## Deliverables
 
-| Artifact        | Due Date    | 
-|---------------------------|--------------------:| 
-| Meeting Minutes  		    | Weekly		| 
-| Individual Logs           | Monthly		| 
-| Team Reports              | Monthly		| 
-| Concept of Operations		| June 12		|
-| Project Management Plan   | June 12		|
-| Software Requirement Spec | June 12		|
-| Test Plan					| June 12		|
-| High-Level Design			| July 3		|
-| Detailed Design			| July 3		|
-| Test Results				| July 31		|
-| Build Instructions		| July 31       |
-| User's Manual				| July 31       |
-| Source Code				| July 31       |
+| Artifact                  |    Due Date     
+|---------------------------|:--------------------:
+| Meeting Minutes           | Weekly		 
+| Individual Logs           | Monthly		 
+| Team Reports              | Monthly		 
+| Concept of Operations			| June 12		
+| Project Management Plan   | June 12		
+| Software Requirement Spec | June 12		
+| Test Plan									| June 12		
+| High-Level Design					| July 3		
+| Detailed Design						| July 3		
+| Test Results							| July 31		
+| Build Instructions				| July 31       
+| User's Manual							| July 31      
+| Source Code								| July 31    
 
 ----------------------------
 
