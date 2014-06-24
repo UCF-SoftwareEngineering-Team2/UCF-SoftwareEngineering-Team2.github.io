@@ -4,8 +4,11 @@ title: "Project Management Plan"
 description: "Phase 1"
 category: Phase 1
 tags: [phase1]
+tagline: "Phase 1"
 ---
 {% include JB/setup %}
+
+
 
 ## Project Overview
 The goal of this project is to provide a web application which allows users to find other users within the UCF campus community interested in organizing and playing sports on the various courts and fields of the UCF campus.  Users can schedule games, find people, and get notifications when a new game is created. This allows people on campus to play a pickup game whenever their schedule permits it.  This web application aims to make finding pickup games on campus for various sporting events an easy process.
@@ -39,34 +42,36 @@ Webcourses Discussions will be used for communication of complex topics, ideas a
 
 ## Deliverables
 
-| Artifact                  |    Due Date     
-|---------------------------|:--------------------:
-| Meeting Minutes           | Weekly		 
-| Individual Logs           | Monthly		 
-| Team Reports              | Monthly		 
-| Concept of Operations			| June 12		
-| Project Management Plan   | June 12		
-| Software Requirement Spec | June 12		
-| Test Plan									| June 12		
-| High-Level Design					| July 3		
-| Detailed Design						| July 3		
-| Test Results							| July 31		
-| Build Instructions				| July 31       
-| User's Manual							| July 31      
-| Source Code								| July 31    
+
+| **Artifact** | **Due Dates**  |
+| --- | --- |
+| Meeting Minutes | Weekly |
+| Individual Logs | Monthly |
+| Team Reports | Monthly |
+| Concept of Operations | June 12th |
+| Project Management Plan | June 12th |
+| Software Requirements Specification | June 12th |
+| Test Plan | June 12th |
+| High-Level Design | July 3rd |
+| Detailed Design | July 3rd |
+| Test Results | July 31st |
+| Build Instructions | July 31st |
+| User's Manual | July 31st |
+| Source Code | July 31st |
+
 
 ----------------------------
 
 ## Software Life Cycle Process
 
-![enter image description here](http://www.projectinsight.net/Community/blogs/project_management_software_implementation_and_user_adoption_tips/VConceptImage.jpg)
+![V-Model](http://i.imgur.com/Z3VevaR.png)
 
 ----------------------------
 
 
 ## Tools and Computing Environment
 - Operating Systems
-	- OSX & WIndows 8.1
+	- OS X 10.9.3+ , WIndows 8.1, iOS,  Android
 - Programming Languages 
 	- Javascript, PHP, HTML, SCSS(CSS), mySQL
 - Libraries
@@ -118,11 +123,36 @@ Using this system, all aspects of source code management history will be self do
 ----------------------------
 
 
-## Technical Progress Metrics
+## Technical Progress 
+
+| **Metrics** | **Measure** |
+| --- | --- |
+| **Requirements Phase** |  |
+| Number of Requirements |  |
+| Number of Requirement Changes |  |
+| **Specification Phase** |  |
+| Number of Specifications |  |
+| Number of Specification Changes |  |
+| **Design Phase** |  |
+| Number of Packages Added, Deleted and Changed |  |
+| Number of Classes Added, Deleted and Changed |  |
+| Number of Methods Added, Deleted and Changed |  |
+| **Implementation** |  |
+| Number of Packages Added, Deleted and Changed |  |
+| Number of Classes Added, Deleted and Changed |  |
+| Number of Methods Added, Deleted and Changed |  |
+| Lines of Code Added, Deleted and Changed |  |
+| Number of Test Cases Added, Deleted and Changed |  |
+| **Integration** |  |
+| Number of Test Cases Added, Deleted and Changed |  |
+| Number of Defects |  |
+
 
 ----------------------------
 
 
 ## Plan for tracking, control, and reporting of progress
 
+Each Thursday a meeting between group members will take place to discuss group individual goals and progress towards each phase. Meeting notes and length will be collected and given to the Project Manager. This will be done for purposes of preparing a project management report which will be delivered to the team privately for the checking of project status and progress. 
 
+Monthly, all developers will provide a technical document describing their progress of their work packages for metric data and milestone confirmation. QA assessment will be done with each project release and will contain stress tests for all modules within the code as decided by the lead developer. Reports will be handled through the completion of phase documents and their submission to the professor and TA.
