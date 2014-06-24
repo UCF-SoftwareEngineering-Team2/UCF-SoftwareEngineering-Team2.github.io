@@ -11,10 +11,9 @@ pygments: true
 title : UCF Software Engineering
 tagline: Making it happen
 author :
-  name : James Choi, Zackary Kirby
+  name : James Choi, Zachary Kirby, Patrick Delva, Alex Horan, Tyler Dixon
   email : jchoi2012@knights.ucf.test
-  github : kizzlebot
-  twitter : kizzlebot 
+  github : UCF-SoftwareEngineering-Team2
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,6 +24,7 @@ author :
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 production_url : http://username.github.io
+
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -116,7 +116,6 @@ JB :
   sharing :
     provider : false
 
-  markdown: kramdown
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
@@ -129,3 +128,4 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+markdown: kramdown
