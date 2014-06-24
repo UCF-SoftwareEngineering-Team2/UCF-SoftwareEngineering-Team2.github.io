@@ -11,11 +11,13 @@ tagline: "Phase 1"
 
 
 ## Section 1: Introduction
-### Software to be Produced:
+
+### Software to be Produced
 
 - GameServe is a website that is used to allow UCF students to host their own pick-up games. The software provides locations and time slots for all recreational areas on the UCF campus. Verification logic is also provided to check the reputation of users who have hosted a game previously.
 
-Reference Documents:
+#### Reference Documents:  
+
 - Concept of Operations
 - Project Management Plan
 - Test Plan
@@ -47,6 +49,7 @@ Reference Documents:
 
 
 ### Event Table:  
+
 | **Event Name** | **External Stimuli** | **External Responses** | **Internal data and state** |
 | --- | --- | --- | --- |
 | **User Account Creation** | Click on "Create an account" button. | Page redirect to login page | Once information is verified client side, hash user password client side, then send all form data to the server. The server then creates a user based off of this information. |
